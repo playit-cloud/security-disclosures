@@ -42,7 +42,7 @@ When a freeze is in effect, we will post a notice on our [Github Page](https://g
 ## 💰 Rewards
 
 > [!IMPORTANT]
-> We **do not** guarantee payment or rewards for disclosures. We are small company and if we do not have the available funds to pay, we will not be able to pay. Please see [Disclosure History](DISCLOSURE_HISTORY.md) to evaluate how we've done rewards in the past. If we're shitty about doing rewards, our shameful acts will be shared there.
+> We **do not** guarantee payment or rewards for disclosures. We are small company and if we do not have the available funds to pay, we will not be able to pay. Please see [Disclosure History](DISCLOSURE_HISTORY.md) to evaluate how we've done rewards in the past. If we're not paying out rewards consistently per these guidelines, our shameful acts will be shared there.
 
 We try to pay bounties based on severity and impact. Reports are scored using CVSS guidelines, with adjustments for real-world risk to playit and our users.
 
@@ -90,4 +90,4 @@ For transparency, we maintain a [Disclosure History](DISCLOSURE_HISTORY.md) page
 - The rewards we paid
 - How we evaluated each disclosure
 
-We encourage you to review it to understand how playit rewards security research in practice. Some reports provided before this project was started may be lacking details or missing entirely.
+We encourage you to review it to understand how playit rewards security research in practice. Reports provided before this project may be lacking details or missing entirely.
