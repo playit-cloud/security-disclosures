@@ -4,7 +4,7 @@ Date: Sept 1, 2025<br/>
 Classification: **Medium / High**<br/>
 Source: `ashishpathakall@gmail.com`, [ashishpathaksec.blogspot.com](https://ashishpathaksec.blogspot.com)<br/>
 Payment: $600<br/>
-
+Status: resolved<br/>
 
 ### Original Report
 ```

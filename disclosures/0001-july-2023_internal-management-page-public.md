@@ -4,6 +4,7 @@ Date: <todo><br/>
 Classification: **Critical**<br/>
 Source: `<todo: check if source wants public recognition>`<br/>
 Payment: $600 (todo: double check this was the payment amount)<br/>
+Status: resolved<br/>
 
 ### Details
 
