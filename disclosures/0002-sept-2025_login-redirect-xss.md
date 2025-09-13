@@ -1,6 +1,6 @@
 # Login redirect has XSS vulnerability
 
-Date: Sept 1, 2025
+Date: Sept 1, 2025<br/>
 Classification: **Medium / High**<br/>
 Source: `ashishpathakall@gmail.com`, [ashishpathaksec.blogspot.com](https://ashishpathaksec.blogspot.com)<br/>
 Payment: $600<br/>
