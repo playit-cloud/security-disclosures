@@ -7,3 +7,4 @@
 * [Email change should invalidate password reset - $50](./disclosures/0005-sept-2025_should-invalidate-resetcode-on-email-change.md)
 * [Absence of Anti-CSRF Tokens on website - $200](./disclosures/0006-sept-2025_csrf-issue.md)
 * [Ability to set text in form element on page via URL - $0](./disclosures/0007-sept-2025_ability-to-set-text-on-page.md)
+* [Ability to use browser tools to get/set cookies - $0](./disclosures/0008-sept-2025_inspector_tools_access_session.md)
