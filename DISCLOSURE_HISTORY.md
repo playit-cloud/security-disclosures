@@ -11,3 +11,4 @@
 * [Unbounded password length - $50](./disclosures/0009-aug-18-2026_unbounded_password_len.md)
 * [Email change should invalidate sessions - $50](./disclosures/0010-aug-20-2026_email_change_invalid_sessions.md)
 * [Missing headers to prevent iframe allow for possible clickjacking - $100](./disclosures/0011-sept-2-2026_iframe-missing-headers.md)
+* [CSRF with plain/text request - $300](./disclosures/0012-sept-18-2026_csrf-with-plain-text.md)
